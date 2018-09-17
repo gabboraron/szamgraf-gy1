@@ -2,7 +2,8 @@
 Computer graphics practice 1
 
 puzsaai@inf.elte.hu
-people.inf.elte.hu/puzsaai/esti
+[people.inf.elte.hu/puzsaai/esti](http://people.inf.elte.hu/puzsaai/esti/)
+
 
     két beadandó
         processing
