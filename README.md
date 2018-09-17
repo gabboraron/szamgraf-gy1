@@ -13,15 +13,18 @@ people.inf.elte.hu/puzsaai/esti
 
 koordináta rendszer: 
    >  lefele y jobbra x
+   
    >  pl: size(x koord,y koord);
    
 színskála:
    >  0-255 (fekete-sárga)
+   
    >  rgb (0,0,0);
-line(felsőx,felsőy,alsóx,alsóy);
+
+Parancsok: 
+`line(felsőx,felsőy,alsóx,alsóy);`
 
 `rect(balx, baly, jobbx, jobby);`
-
 
 `ellipse(x,y,szélesség, magasság);`
 
